@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devankit57 (Founder <a href="https://hostimon.in">@Hostimon</a>)
+- 👋 Hi, I’m @devankit57 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and Django
 - 📫 How to reach me <a href="ankit.pro67@gmail.com">ankit.pro57@gmail.com</a>
