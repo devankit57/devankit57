@@ -18,6 +18,7 @@ const ankit = {
   funFact: "I can dance my way through bugs! 💃🐛"
 };
 
+```
 ## 🛠 Technical Skills
 
 ### Programming Languages
