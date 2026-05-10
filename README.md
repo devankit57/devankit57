@@ -1,45 +1,83 @@
-#  Ankit   
-### Full-Stack Developer | AI/ML Enthusiast | Problem Solver      
-   
-[![Email](https://img.shields.io/badge/Email-ankit.pro57@gmail.com-blue?style=flat&logo=gmail)](mailto:ankit.pro57@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Mishra-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ankit-mishra) 
-[![GitHub](https://img.shields.io/badge/GitHub-devankit57-181717?style=flat&logo=github)](https://github.com/devankit57)  
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=heyo%2C%20i'm%20ankit!%20🤖&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20AI%20%40%20VIT%20%7C%20Full%20Stack%20Dev%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+class Ankit {
+  constructor() {
+    this.degree   = "Integrated M.Tech – AI @ VIT 🎓";
+    this.roles    = ["Full Stack Developer 🛠️", "AI Enthusiast 🤖"];
+    this.stack    = ["Next.js ⚡", "Node.js 🟢", "Python 🐍", "AWS ☁️"];
+    this.learning = ["LLMs & RAG 🧠", "DevOps & CI/CD 🔁"];
+    this.funFact  = "I auto-resolve CI failures before coffee ☕";
+  }
+
+  lifePhilosophy() {
+    return "while (alive) shipIt() 🚀";
+  }
+}
+
+const me = new Ankit();
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  About Me
+## 💻 Tech Stack
 
-```javascript
-const ankit = {
-  education: "Integrated M.Tech - Computer Science with AI @ VIT Bhopal (2022-2027)",
-  skills: ["Python", "Java", "JavaScript", "React/Next.js", "Node.js", "ML/AI"],
-  passions: ["Building scalable solutions", "AI/ML applications", "Web Development"],
-  funFact: "I can dance my way through bugs! 💃🐛"
-};
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-```
-##  Technical Skills
+---
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="40%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devankit57&theme=dark" width="100%" />
+    </td>
+    <td width="60%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" height="300" />
+    </td>
+  </tr>
+</table>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<div align="center">
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+📫 **ankit.pro57@gmail.com** &nbsp;|&nbsp; 📍 **Mau, Uttar Pradesh** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ankit-mishra) &nbsp;|&nbsp; [GitHub](https://github.com/devankit57)
 
-### Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
